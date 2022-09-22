@@ -2,3 +2,6 @@
 print("hi")
 #두번째 버전 
 print("hello")
+
+#세번째 버전 
+print("nice")
